@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Gouri 👋
 
-<!--
-**gouri-bandoji/gouri-bandoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Embedded Systems Engineering – Coventry University  
+🔧 Passionate about Embedded Systems, IoT, FPGA and Electronics Design  
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded C / C++
+- ARM Microcontrollers (STM32, Arduino Nano 33 IoT)
+- Embedded Linux (Yocto Project)
+- FPGA (VHDL / Verilog – Xilinx Vivado)
+- PCB Design (Altium Designer, Proteus)
+- Sensor Interfacing (IMU, Ultrasonic, Flex Sensors)
+
+## 📡 Featured Projects
+
+
+
+## 📫 Contact
+
+LinkedIn: https://linkedin.com/in/gouri-bandoji  
+Email: gouribandoji@gmail.com
